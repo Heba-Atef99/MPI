@@ -1,0 +1,4 @@
+﻿  serial_cos.cpp
+E:\FOE-ASU\4th\1st\Distributed Systems\Assignments\3\serial_cos\serial_cos\serial_cos.cpp(22,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FOE-ASU\4th\1st\Distributed Systems\Assignments\3\serial_cos\serial_cos\serial_cos.cpp(16,14): warning C4101: 'num': unreferenced local variable
+  serial_cos.vcxproj -> E:\FOE-ASU\4th\1st\Distributed Systems\Assignments\3\serial_cos\Debug\serial_cos.exe

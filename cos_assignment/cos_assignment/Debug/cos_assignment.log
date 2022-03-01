@@ -1,0 +1,3 @@
+﻿  cos_assignment.cpp
+E:\FOE-ASU\4th\1st\Distributed Systems\Assignments\3\cos_assignment\cos_assignment\cos_assignment.cpp(48,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  cos_assignment.vcxproj -> E:\FOE-ASU\4th\1st\Distributed Systems\Assignments\3\cos_assignment\Debug\cos_assignment.exe
